@@ -56,7 +56,7 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *ABHISHEK SURESH*
+  *EDWIN*
 ▢ Instagram :
   • https://instagram.com/abhishek_ser
 ▢ GitHub :
